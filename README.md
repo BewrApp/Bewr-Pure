@@ -9,6 +9,6 @@ Bewr Pure is a platform which aims to reduce toxicity and promote a safer online
 ## Tools:
 * Browser extension: informs users if a message they are about to send may be toxic. Reminds users to follow the platform's ToS. Integrated with Gmail, Slack, etc. 
 * [Discord bot](https://github.com/google/making_with_ml/tree/master/discord_moderator): automated moderation bot on Discord servers.
-* Parental control: protect children from harmful content on social media.
+* [Parental control](https://www.bodyguard.ai/families): protect children from harmful content on social media.
 
 Bewr Pure is designed for users who want to feel more confident and safe online, knowing that they have tools to manage and mitigate toxic interactions and protect themselves and their loved ones from harmful content.
