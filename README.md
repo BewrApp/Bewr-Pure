@@ -7,7 +7,7 @@ Bewr Pure is a platform which aims to reduce toxicity and promote a safer online
 * Reports: The platform can generate reports to assist with making complaints to the police.
 
 ## Tools:
-* Browser extension: informs users if a message they are about to send may be toxic. Reminds users to follow the platform's ToS. Integrated with Gmail, Slack, etc. 
+* [Browser extension](https://github.com/conversationai/perspective-viewership-extension): informs users if a message they are about to send may be toxic. Reminds users to follow the platform's ToS. Integrated with Gmail, Slack, etc. 
 * [Discord bot](https://github.com/google/making_with_ml/tree/master/discord_moderator): automated moderation bot on Discord servers.
 * [Parental control](https://www.bodyguard.ai/families): protect children from harmful content on social media.
 
